@@ -1,0 +1,3 @@
+[submodule "MCSPCD"]
+	path = MCSPCD
+	url = https://github.com/VivianePhilipps/MCSPCD.git
